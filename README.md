@@ -50,6 +50,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="60" alt="apache logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/OpenVAS-20a03e?logo=gnupg&logoColor=white&style=for-the-badge" height="60" alt="OpenVAS logo" /> <img width="12" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="60" alt="flutter logo"  />
 </div>
 
