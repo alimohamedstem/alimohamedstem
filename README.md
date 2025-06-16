@@ -55,7 +55,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <img height="108" src="https://tryhackme-badges.s3.amazonaws.com/ali.kotb2004.png"  />
+</div>
 ###
 
 <div align="center">
