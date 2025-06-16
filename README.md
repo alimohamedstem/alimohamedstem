@@ -68,7 +68,7 @@
   <a href="https://t.me/ALIISAHUMAN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="ali.2523056@stemelsadat.moe.edu.eg" target="_blank">
+  <a href="mailto:ali.2523056@stemelsadat.moe.edu.eg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://tryhackme.com/p/ali.kotb2004" target="_blank">
