@@ -54,11 +54,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="60" alt="flutter logo"  />
 </div>
 
-###
 <div align="center">
   <img height="108" src="https://tryhackme-badges.s3.amazonaws.com/ali.kotb2004.png"  />
 </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-m-kotb/" target="_blank">
