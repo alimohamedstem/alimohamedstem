@@ -50,6 +50,12 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="60" alt="apache logo"  />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/5e2e6d3c26c65059e38e5dc029c4d9953f1fe0eb3419daa1deb9b09930f6a0b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536b6574636855702d3030354639453f7374796c653d666f722d7468652d6261646765266c6f676f3d736b657463687570266c6f676f436f6c6f723d7768697465" height="60" alt="SketchUp logo"  />
+  <img width="12" />
+    <img src="https://camo.githubusercontent.com/df50da671ce60e6e460ea9629c10e51a40e6ea36b59a5d0bad80df18bceac14f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" height="60" alt="Canva logo"  />
+  <img width="12" />
+    <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" height="60" alt="Figma logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/OpenVAS-20a03e?logo=gnupg&logoColor=white&style=for-the-badge" height="60" alt="OpenVAS logo" /> <img width="12" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="60" alt="flutter logo"  />
 </div>
