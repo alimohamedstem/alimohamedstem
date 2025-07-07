@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Ali Kotb</h1>
 
 <h5 align="left">
-🎓 I'm a student who is passionate about <strong>cybersecurity</strong> with experience of more than 3 years. <br>
+🎓 I'm a passionate student about <strong>cybersecurity</strong> with experience of more than 3 years. <br>
 🏆 I’m proud to be ranked <strong>1st place all over Egypt</strong> in 
 <a href="https://deci.gov.eg/" target="_blank">DECI (Digital Egypt Cubs Initiative)</a> and 
 <strong>2nd place out of 8000 competitors</strong>.
